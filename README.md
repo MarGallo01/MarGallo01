@@ -64,7 +64,7 @@ Despues relleno descripcion
 </a>
 
 <a href="https://github.com/MarGallo01/Inge-1-2024">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarGallo01&repo=Inge-1-2024&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarGallo01&repo=Inge-1-2024&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9"/>
 </a>
 
 <a href="https://github.com/MarGallo01/OO1-2025">
