@@ -5,8 +5,8 @@
 
 ### 🎓 About me
 <div align="center">
-    Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP. <br>
-    En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar. <br>
+    Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP. 
+    En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar. 
     Ademas voy a ir agregando mis propios proyectos junto con algunas guias de temas variados.
 </div>
 
