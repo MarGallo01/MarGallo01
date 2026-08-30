@@ -1,9 +1,10 @@
 ## Hi, I'm Martiniano Gallo 👋
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 250px></picture>
+<picture> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300></picture>
 
-<br><br>
-Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP <br>
+### 🎓 About me
+
+Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP. <br>
 En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar. <br>
 Ademas voy a ir agregando mis propios proyectos junto con algunas guias de temas variados.
 
