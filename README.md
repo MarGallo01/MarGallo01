@@ -1,29 +1,42 @@
-<h1>Hi, I'm Martiniano Gallo 👋</h1> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="50%" valign="middle" style="border: none;"> <!-- 2. Descripción -->
+## Hi, I'm Martiniano Gallo 👋
 
-Estudiante de la facultad, apasionado por la programación y las nuevas tecnologías. Me gusta aprender cosas nuevas y aplicarlas en proyectos propios. Acá vas a encontrar los repositorios de las materias que fui cursando a lo largo de la carrera.
+<picture><img src = "Extras/tc.gif" width = 50px></picture> About me
 
-</td> <td width="50%" style="border: none;"> <!-- 1. GIF de portada -->  <img src="Extras/tc.gif" width="100%" alt="banner"/> </td> </tr> </table> <br> <!-- 3. Tecnologías y herramientas -->
-🛠️ Tecnologías y Herramientas
-<div align="center"> <!-- Ejemplos de badges — agregá/sacá según tu stack. Buscá más en: https://simpleicons.org --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </div> <br> <!-- 4. Repositorios de la facultad, agrupados por año -->
-🎓 Facultad 
-1️⃣ Primer Año
+<picture> <img align="left" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 250px></picture>
 
-Materia 1 Materia 2 Materia 3
+<br><br>
+Despues relleno descripcion
 
-2️⃣ Segundo Año
+## 
 
-Materia 1 Materia 2 Materia 3
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</span>
 
-3️⃣ Tercer Año
-
-Materia 1 Materia 2 Materia 3
-
-4️⃣ Cuarto Año
-
-Materia 1 Materia 2
-
-5️⃣ Quinto Año
-
-Materia 1
+<h4> Other Tools and Technologies I've used</h4>
+<span>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=figma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)">
+</span>
 
 </div>
