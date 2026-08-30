@@ -9,7 +9,7 @@ Me encuentro transitando la carrera de Analista Programador Universitario junto 
 En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar. <br>
 Ademas voy a ir agregando mis propios proyectos junto con algunas guias de temas variados.
 
-<br clear="both"/>
+---
 
 <h2> Languages </h2>
 <span> 
