@@ -1,8 +1,8 @@
-<h1>Hi, I'm Martiniano Gallo 👋</h1> <table border="0"> <tr> <td width="50%" valign="middle"> <!-- 2. Descripción -->
+<h1>Hi, I'm Martiniano Gallo 👋</h1> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="50%" valign="middle" style="border: none;"> <!-- 2. Descripción -->
 
 Estudiante de la facultad, apasionado por la programación y las nuevas tecnologías. Me gusta aprender cosas nuevas y aplicarlas en proyectos propios. Acá vas a encontrar los repositorios de las materias que fui cursando a lo largo de la carrera.
 
-</td> <td width="50%"> <!-- 1. GIF de portada --> <!-- Reemplazá esta URL por la de tu GIF (podés subirlo a un repo tuyo, ej: assets/banner.gif, y usar la URL "raw" de GitHub) --> <img src="Extras/tc.gif" width="100%" alt="banner"/> </td> </tr> </table> <br> <!-- 3. Tecnologías y herramientas -->
+</td> <td width="50%" style="border: none;"> <!-- 1. GIF de portada -->  <img src="Extras/tc.gif" width="100%" alt="banner"/> </td> </tr> </table> <br> <!-- 3. Tecnologías y herramientas -->
 🛠️ Tecnologías y Herramientas
 <div align="center"> <!-- Ejemplos de badges — agregá/sacá según tu stack. Buscá más en: https://simpleicons.org --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </div> <br> <!-- 4. Repositorios de la facultad, agrupados por año -->
 🎓 Facultad 
