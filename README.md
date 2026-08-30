@@ -3,13 +3,15 @@
 <picture> <img align="left" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 250px></picture>
 
 <br><br>
-Despues relleno descripcion
+Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP
+En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar.
+Ademas voy a ir agregando mis propios proyectos junto con algunas guias de temas variados.
 
 <br clear="both"/>
 
 ## 
 
-<h4> Languages </h4>
+<h2> Languages </h2>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,7 +24,7 @@ Despues relleno descripcion
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </span>
 
-<h4> Other Tools and Technologies I've used</h4>
+<h2> Other Tools and Technologies I've used</h2>
 <span>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -39,7 +41,13 @@ Despues relleno descripcion
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)">
 </span>
 
-<h4> Facultad </h4>
+---
+
+<h2> Proyectos </h2>
+
+---
+
+<h2> Facultad </h2>
 
 <div align="center">
 
