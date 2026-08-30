@@ -1,6 +1,7 @@
 ## Hi, I'm Martiniano Gallo 👋
-
-<picture> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300></picture>
+<p align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300></picture>
+</p>
 
 ### 🎓 About me
 
@@ -9,8 +10,6 @@ En mi perfil pueden encontrar el material visto durante las distintas cursadas d
 Ademas voy a ir agregando mis propios proyectos junto con algunas guias de temas variados.
 
 <br clear="both"/>
-
-## 
 
 <h2> Languages </h2>
 <span> 
