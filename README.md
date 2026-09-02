@@ -1,9 +1,9 @@
-## Hi, I'm Martiniano Gallo 👋
+## Hola, soy Martiniano Gallo 👋
 <p align="center">
     <picture> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300></picture>
 </p>
 
-### 👓 About me 👓
+### 👓 Sobre mi 👓
 <div align="justify">
     Me encuentro transitando la carrera de Analista Programador Universitario junto con la Licenciatura en Sistemas en la Facultad de Informatica - UNLP. 
     En mi perfil pueden encontrar el material visto durante las distintas cursadas de la carrera, incluyendo algunas resoluciones y examenes para repasar. 
@@ -12,7 +12,7 @@
 
 ---
 
-<h2> Languages </h2>
+<h2> Lenguajes </h2>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </span>
 
-<h2> Other Tools and Technologies I've used</h2>
+<h2> Otras herramientas y tecnolgias que he usado</h2>
 <span>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -40,11 +40,13 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapReduce-4479A1?style=for-the-badge"/>
 </span>
 
 ---
 
-<h2> Proyectos </h2>
+<h2> Proyects </h2>
 
 ---
 
