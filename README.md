@@ -48,6 +48,18 @@
 
 <h2> Proyectos </h2>
 
+<a href="https://github.com/MarGallo01/Donde_estas-Volve_a_casa">
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarGallo01&repo=Arqui-2023&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/MarGallo01/Alquileres">
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarGallo01&repo=Arqui-2023&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/MarGallo01/Sitios-Historicos">
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarGallo01&repo=Arqui-2023&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9"/>
+</a>
+
 ---
 
 <h2> Facultad </h2>
